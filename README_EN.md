@@ -26,6 +26,13 @@ Automated installer for the [3x-ui](https://github.com/MHSanaei/3x-ui) panel wit
 
 ---
 
+## Quick install
+```bash
+wget -q --show-progress https://raw.githubusercontent.com/RealYoti/3x-ui-pro/a2c430c/x-ui-latest.sh
+bash x-ui-latest.sh -install y -auto_domain y
+```
+
+---
 ## Installation
 
 **Step 1 — download the script**
