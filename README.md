@@ -26,6 +26,12 @@
 
 ---
 
+## Быстрая установка
+```bash
+wget -q --show-progress https://raw.githubusercontent.com/RealYoti/3x-ui-pro/a2c430c/x-ui-latest.sh
+bash x-ui-latest.sh -install y -auto_domain y
+```
+
 ## Установка
 
 **Шаг 1 — скачать скрипт**
